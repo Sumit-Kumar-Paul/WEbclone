@@ -56,8 +56,7 @@ a{
 /* utility classs............................................... */
 
 .container{
-/*     width: 1199px; */
-     width: auto;
+    width: 1199px;
     margin: 0 auto;
     padding-inline: 20px;
     /* padding-inline: var(--padding-inline); */
