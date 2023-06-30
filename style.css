@@ -64,6 +64,7 @@ a{
 }
 
 .top-banner{
+    width: 100%;
     font-size: 1rem;
     color: white;
     text-align: center;
@@ -71,7 +72,7 @@ a{
     background-color: rgb(223, 55, 172);
     padding: 15px;
     background-image: url(asset/asset\ 32.png);
-    background-size: 100%;
+    background-size: 100px;
 }
 
 .nav-bar{
